@@ -18,12 +18,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-snapshots/</url>
+		    <url>http://100.25.181.92:8081/repository/Sa-repo-for-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-release/</url>
+		    <url>http://100.25.181.92:8081/repository/Sai-repo//</url>
 		</repository>
   	</distributionManagement>
 	
